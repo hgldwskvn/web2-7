@@ -1,1 +1,1 @@
-document.getElementById('choice')textContent=new Date();
+document.getElementById('choice').textContent = new Date();
